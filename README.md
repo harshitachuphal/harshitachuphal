@@ -1,22 +1,28 @@
-# Hi, I'm Harshita Chuphal 👋
+# 👋 Hey there, I'm Harshita!
+
+🏔️ Coding from the Hills of Uttarakhand
 
 🎓 BCA Student at Graphic Era Hill University
 
-💻 Currently Learning:
-- C++
-- Data Structures & Algorithms
-- Computer Science Fundamentals
+💻 C++ Developer | DSA Learner
 
-📚 CS Fundamentals:
-- Operating Systems
-- DBMS
-- Computer Networks
+## 🌍 About Me
+
+I am passionate about solving problems using C++ and Data Structures & Algorithms.
+
+Currently learning:
+- DSA
 - OOPs
+- DBMS
+- Operating Systems
+- Computer Networks
 
-🚀 Goals:
-- Software Development
-- Product Based Companies
-- Internship Opportunities
+## 🎯 Goals
 
-📫 Connect with me:
+- Solve 500+ DSA Problems
+- Build Real Projects
+- Crack Top Internships
+- Get into a Product Based Company
+
+## 📫 Connect With Me
 LinkedIn: https://www.linkedin.com/in/harshita-chuphal-3a2453326?utm_source=share_via&utm_content=profile&utm_medium=member_android
