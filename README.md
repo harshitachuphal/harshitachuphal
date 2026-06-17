@@ -4,19 +4,19 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=BCA+Student;C%2B%2B+Learner;Future+Software+Engineer;GitHub+Enthusiast&center=true&width=500&height=50">
 </p>
 
-## 🌍 About Me
+🌍 About Me
 
-I'm a passionate BCA student with a strong interest in Software Engineering, Problem Solving, and Modern Technology.
+I'm a passionate BCA student with a strong interest in Software Engineering, Data Structures & Algorithms, and Product Development. I enjoy transforming ideas into practical software solutions while continuously strengthening my problem-solving and programming skills.
 
-💻 Currently building expertise in C++, Data Structures & Algorithms, Object-Oriented Programming, and Core Computer Science fundamentals.
+💻 Currently building expertise in C++, Object-Oriented Programming, Data Structures & Algorithms, Database Management Systems, and Core Computer Science fundamentals.
 
-🚀 Focused on developing real-world projects, writing clean and efficient code, and continuously improving my development skills.
+🚀 Focused on developing real-world projects, writing clean and maintainable code, and understanding scalable software design principles.
 
-🌱 Exploring Software Development, Open Source, Git/GitHub, and emerging technologies to expand my technical knowledge.
+🌱 Exploring Full-Stack Development, Open Source Contribution, Git/GitHub workflows, and emerging technologies to expand my technical knowledge.
 
 📧 Get in touch: harshitachuphal8@gmail.com
 
-⚡ I believe consistent learning, hands-on projects, and strong problem-solving skills are the keys to becoming a great software engineer.
+⚡ My goal is to become a skilled Software Engineer capable of building impactful products used by thousands of users.
 
 ## 🛠️ Languages and Tools
 
