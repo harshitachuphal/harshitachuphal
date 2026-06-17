@@ -26,6 +26,6 @@ I'm a passionate BCA student with a strong interest in Software Engineering, Pro
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://www.linkedin.com/in/harshita-chuphal-3a2453326?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+🔗 [LinkedIn](https://www.linkedin.com/in/harshita-chuphal-3a2453326)
 
-[![GitHub](https://github.com/harshitachuphal)
+🐱 [GitHub](https://github.com/harshitachuphal)
