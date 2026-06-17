@@ -4,15 +4,19 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=BCA+Student;C%2B%2B+Learner;Future+Software+Engineer;GitHub+Enthusiast&center=true&width=500&height=50">
 </p>
 
-## 👩‍💻 About Me
+## 🌍 About Me
 
-🎓 BCA Student at Graphic Era Hill University
+I'm a passionate BCA student with a strong interest in Software Engineering, Problem Solving, and Modern Technology.
 
-🌱 Currently Learning C++
+💻 Currently building expertise in C++, Data Structures & Algorithms, Object-Oriented Programming, and Core Computer Science fundamentals.
 
-💻 Interested in Software Development
+🚀 Focused on developing real-world projects, writing clean and efficient code, and continuously improving my development skills.
 
-🚀 Building Projects and Improving Coding Skills
+🌱 Exploring Software Development, Open Source, Git/GitHub, and emerging technologies to expand my technical knowledge.
+
+📧 Get in touch: harshitachuphal8@gmail.com
+
+⚡ I believe consistent learning, hands-on projects, and strong problem-solving skills are the keys to becoming a great software engineer.
 
 ## 🛠️ Languages and Tools
 
@@ -20,12 +24,8 @@
 <img src="https://skillicons.dev/icons?i=cpp,html,css,git,github,vscode" />
 </p>
 
-## 📊 GitHub Stats
-
-![Harshita's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshitachuphal&show_icons=true)
-
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](YOUR_LINKEDIN_LINK)
+[![LinkedIn](https://www.linkedin.com/in/harshita-chuphal-3a2453326?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge)](https://github.com/harshitachuphal)
+[![GitHub](https://github.com/harshitachuphal)
